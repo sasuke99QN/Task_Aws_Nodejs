@@ -1,0 +1,6 @@
+tạo 1 foder helper: 1 file redis.helper.js => set data/get data (key value)
+set/get data het han
+tao bang user email/id, pass*
+task co user id*
+ham register(email/pass) => ton tai => pass mã hóa bcrypt
+hàm login
